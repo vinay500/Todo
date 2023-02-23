@@ -5,4 +5,4 @@ This is a ToDo application written in **Django** and **Reactjs**
 #### 2.Edit Todo
 #### 3.Delete Todo
 #### 4.Sort Todos According to Completion 
-![Todo App Image](https://drive.google.com/file/d/1e_tt232Stnt9JJM6qpeyG-Yk61sKhJ5l/view?usp=sharing)
+![Todo App Image](https://photos.app.goo.gl/YfHM3XUFs3BX54WZA)
